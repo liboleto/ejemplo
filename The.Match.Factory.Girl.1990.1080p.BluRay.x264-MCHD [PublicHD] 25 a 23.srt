@@ -1,0 +1,718 @@
+1
+00:00:01,292 --> 00:00:07,423
+"Probablemente hayan muerto de hambre y frío
+allá lejos, en medio del bosque"
+
+2
+00:00:07,757 --> 00:00:10,760
+-Sergianne Golon;
+"La Condesa Angélica"
+
+3
+00:00:11,969 --> 00:00:14,722
+Producciones Villealfa Film
+presenta
+
+4
+00:00:15,973 --> 00:00:18,768
+Una película de Aki Kaurismäki
+
+5
+00:00:19,852 --> 00:00:23,314
+LA CHICA DE LA FÁBRICA DE CERILLAS
+
+6
+00:00:57,598 --> 00:01:00,977
+Guión, montaje y dirección de
+AKl KAURlSMÄKl
+
+7
+00:07:13,891 --> 00:07:16,644
+El asalto del ejército
+a la Plaza Tiananmen...
+
+8
+00:07:16,936 --> 00:07:19,772
+ha aplastado la resistencia
+de los estudiantes,
+
+9
+00:07:20,064 --> 00:07:22,275
+causando centenares de muertos.
+
+10
+00:07:23,067 --> 00:07:25,862
+La explosión de un gaseoducto
+transiberiano...
+
+11
+00:07:26,153 --> 00:07:30,908
+ha destruido des trenes,
+con un balance de unas 700 víctimas.
+
+12
+00:07:32,702 --> 00:07:36,289
+Ha muerto en Irán el líder religioso
+Ayatollah Jomeini.
+
+13
+00:07:36,831 --> 00:07:40,126
+Buenas noches. La manifestación
+de estudiantes en Pekín...
+
+14
+00:07:40,418 --> 00:07:42,044
+...ha acabado en masacre.
+
+15
+00:07:42,336 --> 00:07:44,672
+Tropas con armas pesadas han matado...
+
+16
+00:07:44,964 --> 00:07:48,426
+...a centenares de estudiantes
+durante la última noche y esta mañana.
+
+17
+00:07:49,594 --> 00:07:53,055
+Armados con armas automáticas
+y tanques...
+
+18
+00:07:53,347 --> 00:07:55,558
+las tropas asaltaron la Plaza Tiananmen
+la última noche...
+
+19
+00:07:55,850 --> 00:07:58,686
+...aplastando la resistencia
+de los desarmados estudiantes.
+
+20
+00:07:59,145 --> 00:08:01,856
+Los tanques se abrían paso
+entre las barricadas,
+
+21
+00:08:02,148 --> 00:08:05,818
+pero uno se quedó bloqueado
+y fue blanco de la ira de la gente,
+
+22
+00:08:06,277 --> 00:08:08,696
+que intentó abrirlo
+sin conseguirlo.
+
+23
+00:08:08,988 --> 00:08:13,868
+Al final le prendió fuego.
+Pero está victoria fue corta:
+
+24
+00:08:14,160 --> 00:08:18,414
+aparecieron más tanques y soldados
+con las bayonetas caladas.
+
+25
+00:08:18,831 --> 00:08:21,292
+Las tiendas fueron quemadas
+o aplastadas por los tanques.
+
+26
+00:08:21,584 --> 00:08:23,252
+La Diosa de la Libertad
+fue derribada...
+
+27
+00:08:23,544 --> 00:08:26,297
+y todo el mundo lo pudo ver:
+era el fin.
+
+28
+00:08:45,066 --> 00:08:52,323
+Al otro lado del océano,
+en alguna parte, existe un país..
+
+29
+00:08:53,574 --> 00:09:00,957
+...donde dulces olas bañan la arena
+de una orilla feliz,
+
+30
+00:09:01,833 --> 00:09:08,965
+donde toda clase de flores bellísimas
+resplandecen a todas horas.
+
+31
+00:09:10,007 --> 00:09:17,098
+Ahí no existen ni fatigas ni problemas,
+ni angustias ni tristezas...
+
+32
+00:09:18,599 --> 00:09:25,690
+Oh, si algún día pudiera arribar
+a ese país de ensueño...
+
+33
+00:09:26,566 --> 00:09:33,865
+...jamás volvería a emprender el vuelo
+para salir de ese paraíso...
+
+34
+00:09:35,074 --> 00:09:42,206
+Pero no soy pájaro y no puedo volar.
+Soy prisionero de estas tierras...
+
+35
+00:09:43,166 --> 00:09:50,798
+...y sólo puedo alcanzar en sueños
+ese paraíso anhelado.
+
+36
+00:10:33,382 --> 00:10:40,848
+Vuela ahora, mi canto,
+vuela donde brilla el país de ensueño...
+
+37
+00:10:41,891 --> 00:10:49,023
+donde fielmente
+mi amor me está esperando.
+
+38
+00:10:50,107 --> 00:10:57,240
+Vuela ahora, mi canto,
+como un pájaro planeando...
+
+39
+00:10:58,699 --> 00:11:05,122
+Dile a mi amor que no tengo pensamientos
+más que para ella.
+
+40
+00:11:06,666 --> 00:11:13,840
+Oh, si algún día pudiera arribar
+a ese país de ensueño...
+
+41
+00:11:15,007 --> 00:11:22,348
+...jamás volvería a emprender el vuelo
+para salir de ese paraíso...
+
+42
+00:11:23,474 --> 00:11:30,565
+Pero no soy pájaro y no puedo volar.
+Soy prisionero de estas tierras...
+
+43
+00:11:31,607 --> 00:11:39,323
+...y sólo puedo alcanzar en sueños
+este paraíso anhelado.
+
+44
+00:13:36,983 --> 00:13:38,776
+Una caña.
+
+45
+00:15:09,158 --> 00:15:11,619
+El Papa, cabeza de la
+Iglesia Católica Romana...
+
+46
+00:15:11,911 --> 00:15:15,039
+y del Estado Vaticano,
+ha iniciado una nueva visita,
+
+47
+00:15:15,331 --> 00:15:18,042
+recibida por un calor sofocante.
+
+48
+00:15:18,543 --> 00:15:22,088
+El Papa ha visitado ya cerca
+de ochenta países.
+
+49
+00:15:22,380 --> 00:15:25,132
+Después de esta gira por Escandinavia,
+sólo le faltarán por visitar...
+
+50
+00:15:25,424 --> 00:15:29,262
+...en Europa los países
+Mónaco, Malta y Andorra.
+
+51
+00:15:29,971 --> 00:15:34,308
+Esta gira por Escandinavia
+ha despertado gran interés.
+
+52
+00:15:34,851 --> 00:15:40,064
+Esta visita está cubierta por unos 600
+profesionales de la información.
+
+53
+00:15:41,649 --> 00:15:45,945
+Buenas noches. El ejército chino
+se ha afianzado en Pekín.
+
+54
+00:15:46,279 --> 00:15:49,365
+Los tanques han tomado posición
+en los principales cruces viales...
+
+55
+00:15:49,657 --> 00:15:53,536
+y su número ha aumentado en
+la Plaza Tiananmen.
+
+56
+00:15:53,870 --> 00:15:58,541
+En el centro de Pekín, el ejército ha
+disparado indiscriminadamente contra civiles.
+
+57
+00:15:58,833 --> 00:16:02,587
+Según fuentes de información chinas,
+unidades del ejército se han enfrentado...
+
+58
+00:16:02,879 --> 00:16:05,423
+al menos en dos distritos de Pekín.
+
+59
+00:16:05,715 --> 00:16:11,345
+Hoy, un hombre en solitario se ha plantado
+ante una columna de tanques, deteniéndola,
+
+60
+00:16:11,637 --> 00:16:14,849
+convirtiéndose de esta manera en
+un símbolo de la resistencia.
+
+61
+00:19:27,124 --> 00:19:28,918
+¡Puta!
+
+62
+00:19:30,461 --> 00:19:32,255
+Devuélvelo.
+
+63
+00:19:46,435 --> 00:19:48,813
+- Una ducha.
+- Ocho marcos. Gracias.
+
+64
+00:23:36,249 --> 00:23:40,336
+Llámame.
+
+65
+00:23:41,462 --> 00:23:45,091
+498 366
+
+66
+00:23:46,050 --> 00:23:48,135
+lris
+
+67
+00:24:07,196 --> 00:24:08,990
+Come.
+
+68
+00:24:14,537 --> 00:24:16,247
+Gracias.
+
+69
+00:24:17,790 --> 00:24:20,042
+Podrías venir alguna vez.
+
+70
+00:24:22,503 --> 00:24:24,714
+¿Sigue ese hombre ahí?
+
+71
+00:24:26,174 --> 00:24:28,384
+Y lo mantienes tú.
+
+72
+00:24:28,843 --> 00:24:31,137
+En cierto modo. Pago el alquiler.
+
+73
+00:24:32,346 --> 00:24:34,140
+Olvídalo. Come.
+
+74
+00:25:11,260 --> 00:25:14,388
+Espero una llamada.
+¿Me la podría pasar al vestuario?
+
+75
+00:25:14,680 --> 00:25:16,474
+De acuerdo.
+
+76
+00:28:11,816 --> 00:28:14,527
+Felicidades, Iris.
+Mamá.
+
+77
+00:28:56,360 --> 00:29:00,698
+Nena, tu presencia es
+lo más importante para mí.
+
+78
+00:29:01,449 --> 00:29:05,953
+A los demás chicos les pareces
+una chica imposible...
+
+79
+00:29:06,287 --> 00:29:11,250
+...pero aunque no seas exactamente
+la chica ideal...
+
+80
+00:29:11,792 --> 00:29:15,254
+...tienes ese algo, nena.
+
+81
+00:29:16,923 --> 00:29:21,302
+Tu sonrisa lo puede todo...
+
+82
+00:29:22,011 --> 00:29:26,432
+...Puede hacer palidecer
+el brillo de las estrellas...
+
+83
+00:29:27,141 --> 00:29:32,021
+Para mí, el destello de tus ojos
+trae la primavera cada día...
+
+84
+00:29:32,313 --> 00:29:35,441
+Tienes ese algo inexplicable, nena.
+
+85
+00:29:37,610 --> 00:29:41,948
+Siempre sueño con tus besos...
+
+86
+00:29:42,657 --> 00:29:47,245
+¡Y ahora eso es algo
+que no quiero perder!
+
+87
+00:29:47,703 --> 00:29:50,790
+La felicidad no puede durar...
+
+88
+00:30:44,218 --> 00:30:46,012
+Hola.
+
+89
+00:30:46,888 --> 00:30:48,681
+¿Qué quieres?
+
+90
+00:30:50,433 --> 00:30:52,560
+Pensé que podríamos vernos.
+
+91
+00:30:53,644 --> 00:30:55,479
+Hoy no.
+
+92
+00:31:02,862 --> 00:31:07,742
+Te recogeré mañana a las ocho.
+Dame tu dirección.
+
+93
+00:31:08,034 --> 00:31:10,745
+Calle de la Fábrica, 44.
+Por el patio.
+
+94
+00:32:21,148 --> 00:32:23,609
+lris viene enseguida.
+
+95
+00:34:17,598 --> 00:34:20,059
+- ¿Te gusta?
+- Está bueno.
+
+96
+00:34:26,774 --> 00:34:30,278
+Pero si te crees que
+hay algo entre nosotros,
+
+97
+00:34:30,570 --> 00:34:32,738
+estás muy equivocada.
+
+98
+00:34:36,325 --> 00:34:39,871
+Nada me emociona tan poco
+como tu afecto.
+
+99
+00:34:42,373 --> 00:34:44,750
+Ahora lárgate.
+
+100
+00:37:18,279 --> 00:37:19,864
+No hay por qué preocuparse.
+
+101
+00:37:20,156 --> 00:37:22,950
+El test dio positivo.
+Está Ud. embarazada.
+
+102
+00:38:17,755 --> 00:38:21,425
+- Estoy embarazada.
+- ¿De verdad?
+
+103
+00:38:45,158 --> 00:38:47,034
+"Querido Aarne...
+
+104
+00:38:47,660 --> 00:38:50,997
+Sé que no quieres verme
+ni saber nada de mí,
+
+105
+00:38:51,539 --> 00:38:54,667
+pero ahora ha pasado algo
+y te tengo que escribir.
+
+106
+00:38:55,960 --> 00:39:00,506
+Mi test de embarazo ha dado positivo,
+así que vamos a tener un niño.
+
+107
+00:39:02,258 --> 00:39:06,179
+Yo preferiría una niña, pero si tú
+quieres un niño, también tendremos uno.
+
+108
+00:39:07,430 --> 00:39:10,141
+¡Hay ropa tan bonita para
+las niñas...!
+
+109
+00:39:10,433 --> 00:39:14,103
+Y a los niños sólo les interesan
+los juegos violentos, como el hockey...
+
+110
+00:39:17,940 --> 00:39:22,195
+No sé cómo vas a tomarte está noticia,
+pero espero que...
+
+111
+00:39:22,487 --> 00:39:25,740
+no nos dejes solos cuando
+nazca el niño.
+
+112
+00:39:27,366 --> 00:39:30,119
+Espero que vengas a vernos
+al hospital...
+
+113
+00:39:30,411 --> 00:39:35,541
+aunque es demasiado pronto para hablar
+de ello, ya que no llegará hasta marzo.
+
+114
+00:39:38,503 --> 00:39:42,089
+Creo que tienes derecho a ser
+el primero en saberlo,
+
+115
+00:39:43,299 --> 00:39:46,010
+porque de todas formas
+eres el padre de nuestro hijo.
+
+116
+00:39:53,351 --> 00:39:55,895
+Aunque no llegues nunca
+a amarme...
+
+117
+00:39:56,187 --> 00:39:59,857
+creo que el niño te traerá
+muchas alegrías,
+
+118
+00:40:00,149 --> 00:40:02,401
+igual que me las traerá a mí.
+
+119
+00:40:03,903 --> 00:40:07,990
+Te llevaré yo misma está carta,
+para que no caiga en otras manos.
+
+120
+00:40:09,992 --> 00:40:13,120
+Prométeme que me contestarás
+después de pensarlo.
+
+121
+00:40:14,914 --> 00:40:17,917
+Creo que todo puede arreglarse
+todavía, y nos daremos cuenta...
+
+122
+00:40:18,209 --> 00:40:22,004
+...de que el Destino nos ha preparado
+está sorpresa por nuestro bien,
+
+123
+00:40:22,797 --> 00:40:25,925
+aunque ahora en principio
+te pueda resultar chocante.
+
+124
+00:40:31,681 --> 00:40:33,641
+Saludos, lris."
+
+125
+00:43:21,142 --> 00:43:24,437
+"Deshazte del renacuajo"
+
+126
+00:44:08,689 --> 00:44:11,484
+Has causado mucha pena
+a tu madre.
+
+127
+00:44:11,776 --> 00:44:16,072
+Los dos deseamos que te busques
+otra casa.
+
+128
+00:45:37,695 --> 00:45:39,530
+¿Es todo?
+
+129
+00:45:41,699 --> 00:45:43,493
+Sí.
+
+130
+00:47:20,631 --> 00:47:24,302
+Toma la llave.
+Volveré por la noche.
+
+131
+00:49:48,654 --> 00:49:50,239
+Matarratas.
+
+132
+00:49:50,531 --> 00:49:52,867
+- ¿Grande o pequeño?
+- Grande.
+
+133
+00:50:03,252 --> 00:50:06,214
+- ¿Qué efecto tiene?
+- Mata.
+
+134
+00:50:08,216 --> 00:50:10,009
+Bien.
+
+135
+00:52:47,834 --> 00:52:49,627
+Una copa.
+
+136
+00:53:18,322 --> 00:53:20,158
+Hielo.
+
+137
+00:54:00,865 --> 00:54:02,909
+Sólo he venido a despedirme.
+
+138
+00:54:04,869 --> 00:54:08,080
+Todo está en orden,
+y no volveremos a vernos nunca.
+
+139
+00:54:11,000 --> 00:54:13,753
+Ya no tienes por qué preocuparte.
+
+140
+00:55:42,425 --> 00:55:44,218
+Una caña doble.
+
+141
+01:01:44,787 --> 01:01:46,581
+Venid a comer.
+
+142
+01:03:39,277 --> 01:03:44,907
+Oh, ¿cómo has podido...
+
+143
+01:03:45,867 --> 01:03:53,332
+...convertir todos mis maravillosos
+sueños en vanas fantasías?
+
+144
+01:03:54,167 --> 01:04:01,549
+Ahora mis ojos han visto
+la fría y cruel tierra.
+
+145
+01:04:02,425 --> 01:04:09,182
+La frágil flor de mi amor se ha
+marchitado y el hielo ha aniquilado mi fe.
+
+146
+01:04:11,100 --> 01:04:18,399
+Cuando uno lo da todo
+y sólo recibe decepciones,
+
+147
+01:04:19,233 --> 01:04:26,449
+el baúl de los recuerdos es cada vez
+más duro de llevar.
+
+148
+01:04:27,408 --> 01:04:34,832
+Ahora ya no brilla la flor del amor.
+
+149
+01:04:35,541 --> 01:04:42,507
+Tu mirada fría y tu gélida sonrisa
+la han matado.
+
+150
+01:05:17,625 --> 01:05:25,049
+Cuando uno lo da todo
+y sólo recibe decepciones,
+
+151
+01:05:25,758 --> 01:05:33,307
+el baúl de los recuerdos es cada vez
+más duro de llevar.
+
+152
+01:05:33,933 --> 01:05:41,315
+Ahora ya no brilla la flor del amor.
+
+153
+01:05:42,191 --> 01:05:49,198
+Tu mirada fría y tu gélida sonrisa
+la han matado.
+
+154
+01:05:54,704 --> 01:05:58,708
+Oh, ¿cómo has podido?
+
